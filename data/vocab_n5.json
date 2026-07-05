@@ -1,0 +1,367 @@
+[
+    {
+        "id": "v_n5_0001",
+        "kanji": "今",
+        "kana": "いま",
+        "romaji": "ima",
+        "thai_reading": "อิ-มะ",
+        "thai_meaning": "ตอนนี้, ขณะนี้",
+        "category": "noun_time",
+        "jlpt_level": "N5",
+        "context_tag": "เวลา/ปัจจุบัน",
+        "linked_grammar": [
+            "ไม่ต้องใช้คำช่วย に",
+            "〜ています (กำลังทำ)"
+        ],
+        "example_sentence": {
+            "japanese": "私は今、美味しい寿司を食べています。",
+            "romaji": "watashi wa ima, oishii sushi wo tabete imasu",
+            "thai": "ตอนนี้ผมกำลังกินซูชิที่อร่อยอยู่ครับ"
+        }
+    },
+    {
+        "id": "v_n5_0002",
+        "kanji": "今日",
+        "kana": "きょう",
+        "romaji": "kyou",
+        "thai_reading": "เคียว",
+        "thai_meaning": "วันนี้",
+        "category": "noun_time",
+        "jlpt_level": "N5",
+        "context_tag": "เวลา/ปัจจุบัน",
+        "linked_grammar": [
+            "ไม่ต้องใช้คำช่วย に",
+            "รูปปัจจุบัน/อนาคต 〜ます"
+        ],
+        "example_sentence": {
+            "japanese": "今日はわさびを買います。",
+            "romaji": "kyou wa wasabi wo kaimasu",
+            "thai": "วันนี้จะซื้อวาซาบิครับ"
+        }
+    },
+    {
+        "id": "v_n5_0003",
+        "kanji": "明日",
+        "kana": "あした",
+        "romaji": "ashita",
+        "thai_reading": "อะ-ชิ-ตะ",
+        "thai_meaning": "พรุ่งนี้",
+        "category": "noun_time",
+        "jlpt_level": "N5",
+        "context_tag": "เวลา/อนาคต",
+        "linked_grammar": [
+            "ไม่ต้องใช้คำช่วย に",
+            "รูปอนาคต 〜ます"
+        ],
+        "example_sentence": {
+            "japanese": "明日、富士山へ行きます。",
+            "romaji": "ashita, fujisan e ikimasu",
+            "thai": "พรุ่งนี้จะไปภูเขาไฟฟูจิครับ"
+        }
+    },
+    {
+        "id": "v_n5_0004",
+        "kanji": "昨日",
+        "kana": "きのう",
+        "romaji": "kinou",
+        "thai_reading": "คิ-โน",
+        "thai_meaning": "เมื่อวานนี้",
+        "category": "noun_time",
+        "jlpt_level": "N5",
+        "context_tag": "เวลา/อดีต",
+        "linked_grammar": [
+            "รูปอดีต 〜ました"
+        ],
+        "example_sentence": {
+            "japanese": "昨日、刺身を食べました。",
+            "romaji": "kinou, sashimi wo tabemashita",
+            "thai": "เมื่อวานนี้กินปลาดิบมาครับ"
+        }
+    },
+    {
+        "id": "v_n5_0005",
+        "kanji": "毎日",
+        "kana": "まいにち",
+        "romaji": "mainichi",
+        "thai_reading": "ไม-นิ-จิ",
+        "thai_meaning": "ทุกวัน",
+        "category": "noun_time",
+        "jlpt_level": "N5",
+        "context_tag": "เวลา/กิจวัตร",
+        "linked_grammar": [
+            "รูปปัจจุบัน 〜ます"
+        ],
+        "example_sentence": {
+            "japanese": "毎日、日本語を勉強します。",
+            "romaji": "mainichi, nihongo wo benkyou shimasu",
+            "thai": "เรียนภาษาญี่ปุ่นทุกวันครับ"
+        }
+    },
+    {
+        "id": "v_n5_0006",
+        "kanji": "今週",
+        "kana": "こんしゅう",
+        "romaji": "konshuu",
+        "thai_reading": "คน-ชู",
+        "thai_meaning": "สัปดาห์นี้",
+        "category": "noun_time",
+        "jlpt_level": "N5",
+        "context_tag": "เวลา/ปัจจุบัน",
+        "linked_grammar": [
+            "รูปปัจจุบัน/อนาคต"
+        ],
+        "example_sentence": {
+            "japanese": "今週、滝を見に行きます。",
+            "romaji": "konshuu, taki wo mi ni ikimasu",
+            "thai": "สัปดาห์นี้จะไปดูน้ำตกครับ"
+        }
+    },
+    {
+        "id": "v_n5_0007",
+        "kanji": "来週",
+        "kana": "らいしゅう",
+        "romaji": "raishuu",
+        "thai_reading": "ไร-ชู",
+        "thai_meaning": "สัปดาห์หน้า",
+        "category": "noun_time",
+        "jlpt_level": "N5",
+        "context_tag": "เวลา/อนาคต",
+        "linked_grammar": [
+            "รูปอนาคต 〜ます"
+        ],
+        "example_sentence": {
+            "japanese": "来週、新しい日本のレストランへ行きます。",
+            "romaji": "raishuu, atarashii nihon no resutoran e ikimasu",
+            "thai": "สัปดาห์หน้าจะไปร้านอาหารญี่ปุ่นเปิดใหม่ครับ"
+        }
+    },
+    {
+        "id": "v_n5_0008",
+        "kanji": "先週",
+        "kana": "せんしゅう",
+        "romaji": "senshuu",
+        "thai_reading": "เซ็น-ชู",
+        "thai_meaning": "สัปดาห์ที่แล้ว",
+        "category": "noun_time",
+        "jlpt_level": "N5",
+        "context_tag": "เวลา/อดีต",
+        "linked_grammar": [
+            "รูปอดีต 〜ました"
+        ],
+        "example_sentence": {
+            "japanese": "先週、日本から帰りました。",
+            "romaji": "senshuu, nihon kara kaerimashita",
+            "thai": "สัปดาห์ที่แล้วกลับมาจากประเทศญี่ปุ่นครับ"
+        }
+    },
+    {
+        "id": "v_n5_0009",
+        "kanji": "毎週",
+        "kana": "まいしゅう",
+        "romaji": "maishuu",
+        "thai_reading": "ไม-ชู",
+        "thai_meaning": "ทุกสัปดาห์",
+        "category": "noun_time",
+        "jlpt_level": "N5",
+        "context_tag": "เวลา/กิจวัตร",
+        "linked_grammar": [
+            "รูปปัจจุบัน 〜ます"
+        ],
+        "example_sentence": {
+            "japanese": "毎週、寿司を食べます。",
+            "romaji": "maishuu, sushi wo tabemasu",
+            "thai": "กินซูชิทุกสัปดาห์เลยครับ"
+        }
+    },
+    {
+        "id": "v_n5_0010",
+        "kanji": "今月",
+        "kana": "こんげつ",
+        "romaji": "kongetsu",
+        "thai_reading": "คน-เง็ต-สึ",
+        "thai_meaning": "เดือนนี้",
+        "category": "noun_time",
+        "jlpt_level": "N5",
+        "context_tag": "เวลา/ปัจจุบัน",
+        "linked_grammar": [
+            "รูปปัจจุบัน/อนาคต"
+        ],
+        "example_sentence": {
+            "japanese": "今月、ひらがなを全部覚えます。",
+            "romaji": "kongetsu, hiragana wo zenbu oboemasu",
+            "thai": "เดือนนี้จะจำฮิรางานะให้ได้ทั้งหมดเลยครับ"
+        }
+    },
+    {
+        "id": "v_n5_0011",
+        "kanji": "来月",
+        "kana": "らいげつ",
+        "romaji": "raigetsu",
+        "thai_reading": "ไร-เง็ต-สึ",
+        "thai_meaning": "เดือนหน้า",
+        "category": "noun_time",
+        "jlpt_level": "N5",
+        "context_tag": "เวลา/อนาคต",
+        "linked_grammar": [
+            "รูปอนาคต 〜ます"
+        ],
+        "example_sentence": {
+            "japanese": "来月、日本のアルプスへ旅行します。",
+            "romaji": "raigetsu, nihon no arupusu e ryokou shimasu",
+            "thai": "เดือนหน้าจะไปเที่ยวที่เจแปนแอลป์ครับ"
+        }
+    },
+    {
+        "id": "v_n5_0012",
+        "kanji": "先月",
+        "kana": "せんげつ",
+        "romaji": "sengetsu",
+        "thai_reading": "เซ็น-เง็ต-สึ",
+        "thai_meaning": "เดือนที่แล้ว",
+        "category": "noun_time",
+        "jlpt_level": "N5",
+        "context_tag": "เวลา/อดีต",
+        "linked_grammar": [
+            "รูปอดีต 〜ました"
+        ],
+        "example_sentence": {
+            "japanese": "先月、N5の漢字を勉強しました。",
+            "romaji": "sengetsu, N5 no kanji wo benkyou shimashita",
+            "thai": "เดือนที่แล้วเรียนคันจิระดับ N5 ไปครับ"
+        }
+    },
+    {
+        "id": "v_n5_0013",
+        "kanji": "毎月",
+        "kana": "まいつき",
+        "romaji": "maitsuki",
+        "thai_reading": "ไม-สึ-กิ",
+        "thai_meaning": "ทุกเดือน",
+        "category": "noun_time",
+        "jlpt_level": "N5",
+        "context_tag": "เวลา/กิจวัตร",
+        "linked_grammar": [
+            "รูปปัจจุบัน 〜ます"
+        ],
+        "example_sentence": {
+            "japanese": "毎月、日本へ行くためにお金を貯めます。",
+            "romaji": "maitsuki, nihon e iku tame ni okane wo tamemasu",
+            "thai": "ออมเงินทุกเดือนเพื่อจะไปประเทศญี่ปุ่นครับ"
+        }
+    },
+    {
+        "id": "v_n5_0014",
+        "kanji": "今年",
+        "kana": "ことし",
+        "romaji": "kotoshi",
+        "thai_reading": "โคะ-โตะ-ชิ",
+        "thai_meaning": "ปีนี้",
+        "category": "noun_time",
+        "jlpt_level": "N5",
+        "context_tag": "เวลา/ปัจจุบัน",
+        "linked_grammar": [
+            "รูปปัจจุบัน/อนาคต"
+        ],
+        "example_sentence": {
+            "japanese": "今年、JLPT N5の試験を受けます。",
+            "romaji": "kotoshi, JLPT N5 no shiken wo ukemasu",
+            "thai": "ปีนี้จะเข้าสอบ JLPT N5 ครับ"
+        }
+    },
+    {
+        "id": "v_n5_0015",
+        "kanji": "来年",
+        "kana": "らいねん",
+        "romaji": "rainen",
+        "thai_reading": "ไร-เน็น",
+        "thai_meaning": "ปีหน้า",
+        "category": "noun_time",
+        "jlpt_level": "N5",
+        "context_tag": "เวลา/อนาคต",
+        "linked_grammar": [
+            "รูปอนาคต 〜ます"
+        ],
+        "example_sentence": {
+            "japanese": "来年はN4に合格したいです。",
+            "romaji": "rainen wa N4 ni goukaku shitai desu",
+            "thai": "ปีหน้าอยากสอบผ่าน N4 ครับ"
+        }
+    },
+    {
+        "id": "v_n5_0016",
+        "kanji": "去年",
+        "kana": "きょねん",
+        "romaji": "kyonen",
+        "thai_reading": "เคียว-เน็น",
+        "thai_meaning": "ปีที่แล้ว",
+        "category": "noun_time",
+        "jlpt_level": "N5",
+        "context_tag": "เวลา/อดีต",
+        "linked_grammar": [
+            "รูปอดีต 〜ました"
+        ],
+        "example_sentence": {
+            "japanese": "去年、湖で綺麗な写真を撮りました。",
+            "romaji": "kyonen, mizuumi de kireina shashin wo torimashita",
+            "thai": "ปีที่แล้วถ่ายรูปสวยๆ ที่ทะเลสาบมาครับ"
+        }
+    },
+    {
+        "id": "v_n5_0017",
+        "kanji": "毎年",
+        "kana": "まいとし",
+        "romaji": "maitoshi",
+        "thai_reading": "ไม-โตะ-ชิ",
+        "thai_meaning": "ทุกปี",
+        "category": "noun_time",
+        "jlpt_level": "N5",
+        "context_tag": "เวลา/กิจวัตร",
+        "linked_grammar": [
+            "รูปปัจจุบัน 〜ます"
+        ],
+        "example_sentence": {
+            "japanese": "毎年、冬に日本のアルプスを見に行きます。",
+            "romaji": "maitoshi, fuyu ni nihon no arupusu wo mi ni ikimasu",
+            "thai": "ไปดูเจแปนแอลป์ในฤดูหนาวทุกปีครับ"
+        }
+    },
+    {
+        "id": "v_n5_0018",
+        "kanji": "朝",
+        "kana": "あさ",
+        "romaji": "asa",
+        "thai_reading": "อะ-สะ",
+        "thai_meaning": "ตอนเช้า",
+        "category": "noun_time",
+        "jlpt_level": "N5",
+        "context_tag": "ช่วงเวลาในวัน",
+        "linked_grammar": [
+            "สามารถใช้คำช่วย に ได้ในบางกรณี",
+            "朝ごはん (อาหารเช้า)"
+        ],
+        "example_sentence": {
+            "japanese": "朝、早く起きて富士山を見ました。",
+            "romaji": "asa, hayaku okite fujisan wo mimashita",
+            "thai": "ตอนเช้าตื่นมาดูภูเขาไฟฟูจิตั้งแต่เช้าตรู่ครับ"
+        }
+    },
+    {
+        "id": "v_n5_0019",
+        "kanji": "昼",
+        "kana": "ひる",
+        "romaji": "hiru",
+        "thai_reading": "ฮิ-รุ",
+        "thai_meaning": "ตอนกลางวัน, ตอนเที่ยง",
+        "category": "noun_time",
+        "jlpt_level": "N5",
+        "context_tag": "ช่วงเวลาในวัน",
+        "linked_grammar": [
+            "昼ごはん (อาหารกลางวัน)"
+        ],
+        "example_sentence": {
+            "japanese": "昼ごはんに美味しい刺身を食べます。",
+            "romaji": "hirugohan ni oishii sashimi wo tabemasu",
+            "thai": "อาหารกลางวันจะกินปลาดิบอร่อยๆ ครับ"
+        }
+    }
+]

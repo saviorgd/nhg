@@ -1,0 +1,2192 @@
+{
+  "inspirations": [
+    {
+      "text": "七転び八起き (ล้มเจ็ดครั้ง ลุกแปดครั้ง) — อุปสรรคมีไว้ให้เราเก่งขึ้น เจอปัญหาอย่าเพิ่งยอมแพ้นะครับ",
+      "author": "เซนเซ"
+    },
+    {
+      "text": "継続は力なり (ความสม่ำเสมอคือพลัง) — เรียนวันละนิด ดีกว่าหักโหมวันเดียวแล้วหายไปยาว",
+      "author": "เซนเซ"
+    },
+    {
+      "text": "千里の道も一歩から (หนทางหมื่นลี้ เริ่มต้นด้วยก้าวแรก) — เป้าหมาย N2 ก็เริ่มจากฮิรางานะตัวแรกนี่แหละ",
+      "author": "เซนเซ"
+    },
+    {
+      "text": "努力は裏切らない (ความพยายามไม่เคยทรยศใคร) — ทุกนาทีที่ทุ่มเทคัดลายมือ ผลลัพธ์งอกเงยแน่นอน",
+      "author": "เซนเซ"
+    },
+    {
+      "text": "為せば成る (ถ้าลงมือทำย่อมสำเร็จ) — ไม่มีอะไรยากเกินความตั้งใจจริงของเราครับ",
+      "author": "เซนเซ"
+    },
+    {
+      "text": "一歩一歩 (ก้าวไปทีละก้าว) — ไม่จำเป็นต้องวิ่งแข่งกับใคร แค่เดินไปข้างหน้าไม่หยุดก็พอ",
+      "author": "เซนเซ"
+    },
+    {
+      "text": "夢は逃げない、逃げるのはいつも自分だ (ความฝันไม่เคยวิ่งหนี มีแต่เราที่วิ่งหนีมัน) — สู้เพื่อชีวิตในญี่ปุ่นกัน!",
+      "author": "เซนเซ"
+    },
+    {
+      "text": "焦らず、休まず (ไม่รีบร้อน ไม่หยุดยั้ง) — รักษาจังหวะของตัวเองไว้ ค่อย ๆ ไปแต่ไปให้ถึง",
+      "author": "เซนเซ"
+    },
+    {
+      "text": "塵も積もれば山となる (ฝุ่นละอองสะสมรวมกันก็กลายเป็นภูเขา) — ศัพท์วันละ 5 คำ วันหนึ่งจะกลายเป็นคลังคำศัพท์หลักพัน",
+      "author": "เซนเซ"
+    },
+    {
+      "text": "明日は明日の風が吹く (พรุ่งนี้ก็มีลมของวันพรุ่งนี้พัดมา) — วันนี้จำไม่ได้ไม่เป็นไร พักผ่อนแล้วพรุ่งนี้ลุยกันใหม่",
+      "author": "เซนเซ"
+    },
+    {
+      "text": "失敗は成功の基 (ความล้มเหลวคือรากฐานของความสำเร็จ) — เขียนผิด ท่องผิด คือเรื่องธรรมดาของการเรียนรู้",
+      "author": "เซนเซ"
+    },
+    {
+      "text": "楽しむことが一番の近道 (ความสนุกคือทางลัดที่ดีที่สุด) — เชื่อมโยงภาษากับซูชิและที่เที่ยวที่ชอบ จะจำแม่นขึ้น",
+      "author": "เซนเซ"
+    },
+    {
+      "text": "昨日の自分より一歩前へ (ก้าวไปข้างหน้ามากกว่าตัวเองเมื่อวานนี้อีกก้าว) — แข่งกับตัวเองในอดีตก็พอแล้วครับ",
+      "author": "เซนเซ"
+    },
+    {
+      "text": "初志貫徹 (ทำตามความตั้งใจแรกให้สำเร็จ) — นึกถึงภาพตัวเองตอนได้ย้ายไปทำงานที่ญี่ปุ่นเข้าไว้นะ",
+      "author": "เซนเซ"
+    },
+    {
+      "text": "雨降って地固まる (หลังฝนตกพื้นดินจะแน่นขึ้น) — ช่วงที่รู้สึกว่ายากที่สุด คือช่วงที่เรากำลังจะเก่งขึ้นอีกระดับ",
+      "author": "เซนเซ"
+    },
+    {
+      "text": "急がば回れ (ยิ่งรีบยิ่งต้องรอบคอบ) — พื้นฐานตัวอักษรต้องแน่น อย่าเพิ่งใจร้อนข้ามไปไวยากรณ์ยาก ๆ",
+      "author": "เซนเซ"
+    },
+    {
+      "text": "初心を忘るべからず (อย่าลืมความรู้สึกและความตั้งใจในวันแรก) — วันไหนเหนื่อย ย้อนกลับมาดูสมุดบันทึกเล่มนี้นะ",
+      "author": "เซนเซ"
+    },
+    {
+      "text": "点がつながって線になる (จุดเล็ก ๆ จะเชื่อมกันกลายเป็นเส้นตรง) — วันนี้เรียนทีละคำ วันหน้ามันจะประกอบเป็นประโยคที่เข้าใจได้เอง",
+      "author": "เซนเซ"
+    },
+    {
+      "text": "完璧を目指さない、継続を目指そう (อย่ามองหาความสมบูรณ์แบบ แต่ให้มองหาความสม่ำเสมอในการเปิดสมุดจด)",
+      "author": "เซนเซ"
+    },
+    {
+      "text": "雲の向こうはいつも青空 (เหนือก้อนเมฆหมอกย่อมมีท้องฟ้าสดใสเสมอ) — ผ่านช่วงฝึกฝนที่ยากลำบากไปได้ ท้องฟ้าที่ญี่ปุ่นรออยู่",
+      "author": "เซนเซ"
+    },
+    {
+      "text": "笑う門には福来る (รอยยิ้มนำมาซึ่งโชคลาภ) — เรียนภาษาแบบยิ้มแย้มและเปิดใจ สมองจะเปิดรับได้ดีที่สุดครับ",
+      "author": "เซนเซ"
+    },
+    {
+      "text": "自分を信じて (จงเชื่อมั่นในตัวเอง) — ถ้าคนอื่นสอบผ่าน N2 ได้ คุณที่ตั้งใจขนาดนี้ก็ต้องทำได้แน่นอน",
+      "author": "เซนเซ"
+    },
+    {
+      "text": "一生懸命 (พยายามอย่างสุดความสามารถ) — ใส่ใจในทุก ๆ ตัวอักษรที่เขียน แล้วผลลัพธ์จะคุ้มค่ากับแรงที่ลงไป",
+      "author": "เซนเซ"
+    },
+    {
+      "text": "一期一会 (จงเห็นคุณค่าของทุกโอกาส) — ทุกคำศัพท์ที่ผ่านตาในร้านอาหารหรือป้ายท่องเที่ยว คือโอกาสในการเรียนรู้",
+      "author": "เซนเซ"
+    },
+    {
+      "text": "自分のペースで進もう (ก้าวไปตามจังหวะของตัวเองเถอะ) — ไม่ต้องเปรียบเทียบความเร็วกับใคร ปลายทาง N2 เหมือนกัน",
+      "author": "เซนเซ"
+    },
+    {
+      "text": "不可能なことはない (ไม่มีอะไรที่เป็นไปไม่ได้) — จาก Absolute Beginner สู่ N2 คนไทยหลายคนทำได้มาแล้ว คุณคือคนต่อไป",
+      "author": "เซนเซ"
+    },
+    {
+      "text": "人生に無駄なことはない (ไม่มีสิ่งใดในชีวิตที่ไร้ประโยชน์) — แม้แต่การจำตัวอักษรสับสน ก็ทำให้เราจำแม่นขึ้นในครั้งต่อไป",
+      "author": "เซนเซ"
+    },
+    {
+      "text": "百聞は一見に如かず (สิบปากว่าไม่เท่าตาเห็น) — ยิ่งพาตัวเองไปเจอภาษาญี่ปุ่นในชีวิตจริงบ่อย ๆ ยิ่งเข้าใจลึกซึ้ง",
+      "author": "เซนเซ"
+    },
+    {
+      "text": "今日の一歩が未来を作る (ก้าวเล็ก ๆ ในวันนี้จะสร้างอนาคตที่ยิ่งใหญ่) — เก่งมากครับที่สละเวลามาทบทวนในวันนี้",
+      "author": "เซนเซ"
+    },
+    {
+      "text": "未来の自分への投資 (การเรียนวันนี้คือการลงทุนเพื่อตัวเองในอนาคต) — เพื่อชีวิตที่ญี่ปุ่นในแบบที่ฝันไว้ ลุยกันครับ!",
+      "author": "เซนเซ"
+    }
+  ],
+  "kana": [
+    {
+      "id": "k_h_a",
+      "type": "hiragana",
+      "row_group": "a",
+      "character": "あ",
+      "romaji": "a",
+      "thai_reading": "อะ",
+      "thai_trick": "มักจะจำสับสนกับตัว 'お' (โอะ) ให้จำว่า 'あ' มีไม้กางเขนอยู่ข้างบนเหมือนคำว่า 'Amen'",
+      "stroke_order_path": "assets/strokes/h_a.gif"
+    },
+    {
+      "id": "k_h_i",
+      "type": "hiragana",
+      "row_group": "a",
+      "character": "い",
+      "romaji": "i",
+      "thai_reading": "อิ",
+      "thai_trick": "เส้นคู่ขนานสองเส้น ฝั่งซ้ายยาวกว่าและมีตวัดหาง เหมือนคำว่า 'Eleven' (เลข 11 เอียงๆ)",
+      "stroke_order_path": "assets/strokes/h_i.gif"
+    },
+    {
+      "id": "k_h_u",
+      "type": "hiragana",
+      "row_group": "a",
+      "character": "う",
+      "romaji": "u",
+      "thai_reading": "อุ",
+      "thai_trick": "เหมือนรูปใบหูคนกำลังก้มฟังเสียง หรือตัวอักษร 'U' ที่ตะแคงข้างลงมา",
+      "stroke_order_path": "assets/strokes/h_u.gif"
+    },
+    {
+      "id": "k_h_e",
+      "type": "hiragana",
+      "row_group": "a",
+      "character": "え",
+      "romaji": "e",
+      "thai_reading": "เอะ",
+      "thai_trick": "เหมือนคนกำลังเล่นสเก็ตบอร์ดหรือวิ่งโลดโผนแบบ 'Exotic'",
+      "stroke_order_path": "assets/strokes/h_e.gif"
+    },
+    {
+      "id": "k_h_o",
+      "type": "hiragana",
+      "row_group": "a",
+      "character": "お",
+      "romaji": "o",
+      "thai_reading": "โอะ",
+      "thai_trick": "คล้ายตัว あ แต่มีจุดกลมๆ อยู่ข้างบนแยกออกมา เหมือนสัญลักษณ์วงกลม 'Olympic'",
+      "stroke_order_path": "assets/strokes/h_o.gif"
+    },
+    {
+      "id": "k_h_ka",
+      "type": "hiragana",
+      "row_group": "ka",
+      "character": "か",
+      "romaji": "ka",
+      "thai_reading": "คะ",
+      "thai_trick": "เหมือนกามเทพ (Ka) กำลังง้างคันศรเพื่อยิงธนู มีขีดเฉียงด้านขวาเป็นลูกศร",
+      "stroke_order_path": "assets/strokes/h_ka.gif",
+      "variants": {
+        "dakuten": {
+          "id": "k_h_ga",
+          "character": "が",
+          "romaji": "ga",
+          "thai_reading": "กะ",
+          "stroke_order_path": "assets/strokes/h_ga.gif"
+        }
+      }
+    },
+    {
+      "id": "k_h_ki",
+      "type": "hiragana",
+      "row_group": "ka",
+      "character": "き",
+      "romaji": "ki",
+      "thai_reading": "คิ",
+      "thai_trick": "รูปร่างเหมือนลูกกุญแจโบราณ (Key) มีขีดแนวนอนสองเส้นเป็นร่องกุญแจ",
+      "stroke_order_path": "assets/strokes/h_ki.gif",
+      "variants": {
+        "dakuten": {
+          "id": "k_h_gi",
+          "character": "ぎ",
+          "romaji": "gi",
+          "thai_reading": "กิ",
+          "stroke_order_path": "assets/strokes/h_gi.gif"
+        }
+      }
+    },
+    {
+      "id": "k_h_ku",
+      "type": "hiragana",
+      "row_group": "ka",
+      "character": "く",
+      "romaji": "ku",
+      "thai_reading": "คุ",
+      "thai_trick": "เหมือนอ้าปากนกคูกร้อง 'คูๆ' หรือเครื่องหมายน้อยกว่า (<) ในวิชาคณิตศาสตร์",
+      "stroke_order_path": "assets/strokes/h_ku.gif",
+      "variants": {
+        "dakuten": {
+          "id": "k_h_gu",
+          "character": "ぐ",
+          "romaji": "gu",
+          "thai_reading": "กุ",
+          "stroke_order_path": "assets/strokes/h_gu.gif"
+        }
+      }
+    },
+    {
+      "id": "k_h_ke",
+      "type": "hiragana",
+      "row_group": "ka",
+      "character": "け",
+      "romaji": "ke",
+      "thai_reading": "เคะ",
+      "thai_trick": "ฝั่งซ้ายเป็นดาบซามูไร ฝั่งขวาเหมือนป้ายปักอยู่ข้างก้อนเค้ก (Cake)",
+      "stroke_order_path": "assets/strokes/h_ke.gif",
+      "variants": {
+        "dakuten": {
+          "id": "k_h_ge",
+          "character": "げ",
+          "romaji": "ge",
+          "thai_reading": "เกะ",
+          "stroke_order_path": "assets/strokes/h_ge.gif"
+        }
+      }
+    },
+    {
+      "id": "k_h_ko",
+      "type": "hiragana",
+      "row_group": "ka",
+      "character": "こ",
+      "romaji": "ko",
+      "thai_reading": "โคะ",
+      "thai_trick": "เหมือนแม่โคกับลูกโค (Ko) นอนหันหน้าขนานเข้าหากัน บนและล่าง",
+      "stroke_order_path": "assets/strokes/h_ko.gif",
+      "variants": {
+        "dakuten": {
+          "id": "k_h_go",
+          "character": "ご",
+          "romaji": "go",
+          "thai_reading": "โกะ",
+          "stroke_order_path": "assets/strokes/h_go.gif"
+        }
+      }
+    },
+    {
+      "id": "k_h_sa",
+      "type": "hiragana",
+      "row_group": "sa",
+      "character": "さ",
+      "romaji": "sa",
+      "thai_reading": "สะ",
+      "thai_trick": "หน้าตาคล้ายตัว き (คิ) แต่มีขีดแนวนอนแค่เส้นเดียว เหมือนซามูไร (Sa) ถือดาบเดี่ยว",
+      "stroke_order_path": "assets/strokes/h_sa.gif",
+      "variants": {
+        "dakuten": {
+          "id": "k_h_za",
+          "character": "ざ",
+          "romaji": "za",
+          "thai_reading": "ซะ",
+          "stroke_order_path": "assets/strokes/h_za.gif"
+        }
+      }
+    },
+    {
+      "id": "k_h_shi",
+      "type": "hiragana",
+      "row_group": "sa",
+      "character": "し",
+      "romaji": "shi",
+      "thai_reading": "ชิ",
+      "thai_trick": "เหมือนเบ็ดตกปลาโค้งๆ เอาไว้ใช้ 'ช้อน' ปลา (Shi)",
+      "stroke_order_path": "assets/strokes/h_shi.gif",
+      "variants": {
+        "dakuten": {
+          "id": "k_h_ji",
+          "character": "じ",
+          "romaji": "ji",
+          "thai_reading": "จิ",
+          "stroke_order_path": "assets/strokes/h_ji.gif"
+        }
+      }
+    },
+    {
+      "id": "k_h_su",
+      "type": "hiragana",
+      "row_group": "sa",
+      "character": "す",
+      "romaji": "su",
+      "thai_reading": "สุ",
+      "thai_trick": "มีห่วงตรงกลางเหมือนขดลวดสปริง (Spring) หรือเด็กกำลังเล่นสไลเดอร์ (Su) ลงมา",
+      "stroke_order_path": "assets/strokes/h_su.gif",
+      "variants": {
+        "dakuten": {
+          "id": "k_h_zu",
+          "character": "ず",
+          "romaji": "zu",
+          "thai_reading": "ซุ",
+          "stroke_order_path": "assets/strokes/h_zu.gif"
+        }
+      }
+    },
+    {
+      "id": "k_h_se",
+      "type": "hiragana",
+      "row_group": "sa",
+      "character": "せ",
+      "romaji": "se",
+      "thai_reading": "เซะ",
+      "thai_trick": "เหมือน 'เซนเซ' ยืนพิงเก้าอี้โซฟา (Sofa) กางแขนสอนนักเรียน",
+      "stroke_order_path": "assets/strokes/h_se.gif",
+      "variants": {
+        "dakuten": {
+          "id": "k_h_ze",
+          "character": "ぜ",
+          "romaji": "ze",
+          "thai_reading": "เซะ",
+          "stroke_order_path": "assets/strokes/h_ze.gif"
+        }
+      }
+    },
+    {
+      "id": "k_h_so",
+      "type": "hiragana",
+      "row_group": "sa",
+      "character": "そ",
+      "romaji": "so",
+      "thai_reading": "โซะ",
+      "thai_trick": "เขียนเป็นเส้นเดียวต่อเนื่องเหมือนตัว Z ผสมกับตัว C คล้ายคลื่นเรดาร์โซนาร์ (Sonar)",
+      "stroke_order_path": "assets/strokes/h_so.gif",
+      "variants": {
+        "dakuten": {
+          "id": "k_h_zo",
+          "character": "ぞ",
+          "romaji": "zo",
+          "thai_reading": "โซะ",
+          "stroke_order_path": "assets/strokes/h_zo.gif"
+        }
+      }
+    },
+    {
+      "id": "k_h_ta",
+      "type": "hiragana",
+      "row_group": "ta",
+      "character": "た",
+      "romaji": "ta",
+      "thai_reading": "ตะ",
+      "thai_trick": "ฝั่งซ้ายคล้ายตัว t ภาษาอังกฤษ ฝั่งขวาคล้ายตัว こ รวมกันจำว่าไป 'ตาก' ผ้า (Ta)",
+      "stroke_order_path": "assets/strokes/h_ta.gif",
+      "variants": {
+        "dakuten": {
+          "id": "k_h_da",
+          "character": "だ",
+          "romaji": "da",
+          "thai_reading": "ดะ",
+          "stroke_order_path": "assets/strokes/h_da.gif"
+        }
+      }
+    },
+    {
+      "id": "k_h_chi",
+      "type": "hiragana",
+      "row_group": "ta",
+      "character": "ち",
+      "romaji": "chi",
+      "thai_reading": "ชิ",
+      "thai_trick": "เหมือนเลข 5 กลับด้าน หรือเหมือนหน้าคนก้มลงไป 'ชี้' (Chi) นิ้วสั่งงาน",
+      "stroke_order_path": "assets/strokes/h_chi.gif",
+      "variants": {
+        "dakuten": {
+          "id": "k_h_dji",
+          "character": "ぢ",
+          "romaji": "ji",
+          "thai_reading": "จิ",
+          "stroke_order_path": "assets/strokes/h_dji.gif",
+          "rare": true
+        }
+      }
+    },
+    {
+      "id": "k_h_tsu",
+      "type": "hiragana",
+      "row_group": "ta",
+      "character": "つ",
+      "romaji": "tsu",
+      "thai_reading": "สึ",
+      "thai_trick": "เหมือนเกลียวคลื่นยักษ์สึนามิ (Tsunami) กำลังม้วนตัวเข้าหาฝั่ง",
+      "stroke_order_path": "assets/strokes/h_tsu.gif",
+      "variants": {
+        "dakuten": {
+          "id": "k_h_dzu",
+          "character": "づ",
+          "romaji": "zu",
+          "thai_reading": "ซุ",
+          "stroke_order_path": "assets/strokes/h_dzu.gif",
+          "rare": true
+        }
+      }
+    },
+    {
+      "id": "k_h_te",
+      "type": "hiragana",
+      "row_group": "ta",
+      "character": "て",
+      "romaji": "te",
+      "thai_reading": "เตะ",
+      "thai_trick": "เหมือนหน้าตาป้ายกาวเทป (Tape) ที่ถูกดึงยืดออกไปทางขวา",
+      "stroke_order_path": "assets/strokes/h_te.gif",
+      "variants": {
+        "dakuten": {
+          "id": "k_h_de",
+          "character": "で",
+          "romaji": "de",
+          "thai_reading": "เดะ",
+          "stroke_order_path": "assets/strokes/h_de.gif"
+        }
+      }
+    },
+    {
+      "id": "k_h_to",
+      "type": "hiragana",
+      "row_group": "ta",
+      "character": "と",
+      "romaji": "to",
+      "thai_reading": "โตะ",
+      "thai_trick": "เหมือนหนามแหลมทิ่มลงไปที่นิ้วเท้า (Toe) จนเจ็บสะดุ้ง",
+      "stroke_order_path": "assets/strokes/h_to.gif",
+      "variants": {
+        "dakuten": {
+          "id": "k_h_do",
+          "character": "ど",
+          "romaji": "do",
+          "thai_reading": "โดะ",
+          "stroke_order_path": "assets/strokes/h_do.gif"
+        }
+      }
+    },
+    {
+      "id": "k_h_na",
+      "type": "hiragana",
+      "row_group": "na",
+      "character": "な",
+      "romaji": "na",
+      "thai_reading": "นะ",
+      "thai_trick": "ฝั่งซ้ายเหมือนไม้กางเขน ฝั่งขวาเหมือนคนคุกเข่าพนมมือไหว้พญานาค (Na)",
+      "stroke_order_path": "assets/strokes/h_na.gif"
+    },
+    {
+      "id": "k_h_ni",
+      "type": "hiragana",
+      "row_group": "na",
+      "character": "に",
+      "romaji": "ni",
+      "thai_reading": "นิ",
+      "thai_trick": "ฝั่งซ้ายเป็นเส้นตรง ฝั่งขวาเหมือนตัว こ จำว่านินจา (Ni) ถือดาบแอบหลังต้นไม้",
+      "stroke_order_path": "assets/strokes/h_ni.gif"
+    },
+    {
+      "id": "k_h_nu",
+      "type": "hiragana",
+      "row_group": "na",
+      "character": "ぬ",
+      "romaji": "nu",
+      "thai_reading": "นุ",
+      "thai_trick": "เส้นยุ่งเหยิงเหมือนเส้นบะหมี่นู้ดเดิ้ล (Noodle) และมีม้วนปมกลมๆ ที่ปลายเส้น",
+      "stroke_order_path": "assets/strokes/h_nu.gif"
+    },
+    {
+      "id": "k_h_ne",
+      "type": "hiragana",
+      "row_group": "na",
+      "character": "ね",
+      "romaji": "ne",
+      "thai_reading": "เนะ",
+      "thai_trick": "ตัวอักษรขึ้นต้นของคำว่า แมว (Neko) ให้จำว่าหางม้วนๆ ตรงปลายคือหางแมวเนโกะ",
+      "stroke_order_path": "assets/strokes/h_ne.gif"
+    },
+    {
+      "id": "k_h_no",
+      "type": "hiragana",
+      "row_group": "na",
+      "character": "の",
+      "romaji": "no",
+      "thai_reading": "โนะ",
+      "thai_trick": "เหมือนป้ายห้าม หรือเครื่องหมายกากบาทวงกลมที่บอกว่า ไม่! (No)",
+      "stroke_order_path": "assets/strokes/h_no.gif"
+    },
+    {
+      "id": "k_h_ha",
+      "type": "hiragana",
+      "row_group": "ha",
+      "character": "は",
+      "romaji": "ha",
+      "thai_reading": "ฮะ",
+      "thai_trick": "ฝั่งซ้ายเป็นเสา ฝั่งขวามีห่วงกลมๆ ข้างล่างเหมือนถุงใส่เหล้าสาเก ดื่มแล้วหัวเราะ ฮะๆ (Ha)",
+      "stroke_order_path": "assets/strokes/h_ha.gif",
+      "variants": {
+        "dakuten": {
+          "id": "k_h_ba",
+          "character": "ば",
+          "romaji": "ba",
+          "thai_reading": "บะ",
+          "stroke_order_path": "assets/strokes/h_ba.gif"
+        },
+        "handakuten": {
+          "id": "k_h_pa",
+          "character": "ぱ",
+          "romaji": "pa",
+          "thai_reading": "ปะ",
+          "stroke_order_path": "assets/strokes/h_pa.gif"
+        }
+      }
+    },
+    {
+      "id": "k_h_hi",
+      "type": "hiragana",
+      "row_group": "ha",
+      "character": "ひ",
+      "romaji": "hi",
+      "thai_reading": "ฮิ",
+      "thai_trick": "รูปทรงเหมือนปากที่กำลังฉีกยิ้มกว้างอย่างอารมณ์ดี หัวเราะเสียง ฮิฮิ (Hihi)",
+      "stroke_order_path": "assets/strokes/h_hi.gif",
+      "variants": {
+        "dakuten": {
+          "id": "k_h_bi",
+          "character": "び",
+          "romaji": "bi",
+          "thai_reading": "บิ",
+          "stroke_order_path": "assets/strokes/h_bi.gif"
+        },
+        "handakuten": {
+          "id": "k_h_pi",
+          "character": "ぴ",
+          "romaji": "pi",
+          "thai_reading": "ปิ",
+          "stroke_order_path": "assets/strokes/h_pi.gif"
+        }
+      }
+    },
+    {
+      "id": "k_h_fu",
+      "type": "hiragana",
+      "row_group": "ha",
+      "character": "ふ",
+      "romaji": "fu",
+      "thai_reading": "ฟุ",
+      "thai_trick": "เหมือนรูปทรงสมมาตรของภูเขาไฟฟูจิ (Fuji) มีกลุ่มเมฆลอยอยู่สองข้าง",
+      "stroke_order_path": "assets/strokes/h_fu.gif",
+      "variants": {
+        "dakuten": {
+          "id": "k_h_bu",
+          "character": "ぶ",
+          "romaji": "bu",
+          "thai_reading": "บุ",
+          "stroke_order_path": "assets/strokes/h_bu.gif"
+        },
+        "handakuten": {
+          "id": "k_h_pu",
+          "character": "ぷ",
+          "romaji": "pu",
+          "thai_reading": "ปุ",
+          "stroke_order_path": "assets/strokes/h_pu.gif"
+        }
+      }
+    },
+    {
+      "id": "k_h_he",
+      "type": "hiragana",
+      "row_group": "ha",
+      "character": "へ",
+      "romaji": "he",
+      "thai_reading": "เฮะ",
+      "thai_trick": "เหมือนยอดภูเขาชันๆ หรือเส้นทางบินของเฮลิคอปเตอร์ (Helicopter) บินขึ้นฟ้า",
+      "stroke_order_path": "assets/strokes/h_he.gif",
+      "variants": {
+        "dakuten": {
+          "id": "k_h_be",
+          "character": "べ",
+          "romaji": "be",
+          "thai_reading": "เบะ",
+          "stroke_order_path": "assets/strokes/h_be.gif"
+        },
+        "handakuten": {
+          "id": "k_h_pe",
+          "character": "ぺ",
+          "romaji": "pe",
+          "thai_reading": "เปะ",
+          "stroke_order_path": "assets/strokes/h_pe.gif"
+        }
+      }
+    },
+    {
+      "id": "k_h_ho",
+      "type": "hiragana",
+      "row_group": "ha",
+      "character": "ほ",
+      "romaji": "ho",
+      "thai_reading": "โฮะ",
+      "thai_trick": "คล้ายตัว は (ฮะ) แต่ด้านบนมีเส้นขีดขนานเพิ่มมา และไม่ทะลุ เหมือนคนใส่หมวกโฮคาเงะ (Ho)",
+      "stroke_order_path": "assets/strokes/h_ho.gif",
+      "variants": {
+        "dakuten": {
+          "id": "k_h_bo",
+          "character": "ぼ",
+          "romaji": "bo",
+          "thai_reading": "โบะ",
+          "stroke_order_path": "assets/strokes/h_bo.gif"
+        },
+        "handakuten": {
+          "id": "k_h_po",
+          "character": "ぽ",
+          "romaji": "po",
+          "thai_reading": "โปะ",
+          "stroke_order_path": "assets/strokes/h_po.gif"
+        }
+      }
+    },
+    {
+      "id": "k_h_ma",
+      "type": "hiragana",
+      "row_group": "ma",
+      "character": "ま",
+      "romaji": "ma",
+      "thai_reading": "มะ",
+      "thai_trick": "คล้ายตัว ほ แต่เส้นตั้งลากทะลุขึ้นไปด้านบนสุด เหมือนมาดาม (Madame) ใส่หมวกทรงสูง",
+      "stroke_order_path": "assets/strokes/h_ma.gif"
+    },
+    {
+      "id": "k_h_mi",
+      "type": "hiragana",
+      "row_group": "ma",
+      "character": "み",
+      "romaji": "mi",
+      "thai_reading": "มิ",
+      "thai_trick": "คล้ายเลข 2 ม้วนหางแล้วมีเส้นเฉียงมาตัดด้านขวา คล้ายตัวโน้ตดนตรีเสียง 'มี' (Mi)",
+      "stroke_order_path": "assets/strokes/h_mi.gif"
+    },
+    {
+      "id": "k_h_mu",
+      "type": "hiragana",
+      "row_group": "ma",
+      "character": "む",
+      "romaji": "mu",
+      "thai_reading": "มุ",
+      "thai_trick": "รูปร่างเหมือนวัวอ้วนๆ กำลังนอนร้อง มูๆ (Mu) มีเขายื่นไปทางขวา",
+      "stroke_order_path": "assets/strokes/h_mu.gif"
+    },
+    {
+      "id": "k_h_me",
+      "type": "hiragana",
+      "row_group": "ma",
+      "character": "め",
+      "romaji": "me",
+      "thai_reading": "เมะ",
+      "thai_trick": "คล้ายตัว ぬ (นุ) แต่ไม่มีม้วนปมกลมๆ ที่ปลาย เหมือนคนเมิน (Me) สะบัดบะหมี่ทิ้ง",
+      "stroke_order_path": "assets/strokes/h_me.gif"
+    },
+    {
+      "id": "k_h_mo",
+      "type": "hiragana",
+      "row_group": "ma",
+      "character": "も",
+      "romaji": "mo",
+      "thai_reading": "โมะ",
+      "thai_trick": "เหมือนเบ็ดตกปลาที่มีขีดนอนสองเส้นทับ จำว่าคุยโม้ (Mo) ว่าตกปลาได้ทีเดียวสองตัว",
+      "stroke_order_path": "assets/strokes/h_mo.gif"
+    },
+    {
+      "id": "k_h_ya",
+      "type": "hiragana",
+      "row_group": "ya",
+      "character": "や",
+      "romaji": "ya",
+      "thai_reading": "ยะ",
+      "thai_trick": "โครงสร้างเหมือนหัวยักษ์ (Ya) โผล่ขึ้นมาเหนือกำแพง มีเขี้ยวแหลมชี้ตั้งขึ้น",
+      "stroke_order_path": "assets/strokes/h_ya.gif"
+    },
+    {
+      "id": "k_h_yu",
+      "type": "hiragana",
+      "row_group": "ya",
+      "character": "ゆ",
+      "romaji": "yu",
+      "thai_reading": "ยุ",
+      "thai_trick": "เหมือนเลข 2 อ้วนๆ ตัวใหญ่ๆ โดนบีบจนยุบ (Yu) มีเส้นตรงแทงทะลุกลางกลาง",
+      "stroke_order_path": "assets/strokes/h_yu.gif"
+    },
+    {
+      "id": "k_h_yo",
+      "type": "hiragana",
+      "row_group": "ya",
+      "character": "よ",
+      "romaji": "yo",
+      "thai_reading": "โยะ",
+      "thai_trick": "เหมือนคนกำลังเล่นของเล่นโยโย่ (Yoyo) เอานิ้วสอดรูเชือกแล้วปล่อยเด้งลงมา",
+      "stroke_order_path": "assets/strokes/h_yo.gif"
+    },
+    {
+      "id": "k_h_ra",
+      "type": "hiragana",
+      "row_group": "ra",
+      "character": "ら",
+      "romaji": "ra",
+      "thai_reading": "ระ",
+      "thai_trick": "คล้ายเลข 5 ที่ขีดบนแยกออกจากตัวข้างล่าง เหมือนแรด (Ra) กำลังชูหัวเดิน",
+      "stroke_order_path": "assets/strokes/h_ra.gif"
+    },
+    {
+      "id": "k_h_ri",
+      "type": "hiragana",
+      "row_group": "ra",
+      "character": "り",
+      "romaji": "ri",
+      "thai_reading": "ริ",
+      "thai_trick": "เส้นขนานสองเส้น คล้ายตัว い แต่อันขวายาวกว่ามาก เหมือนสายริบบิ้น (Ribbon) ปลิว",
+      "stroke_order_path": "assets/strokes/h_ri.gif"
+    },
+    {
+      "id": "k_h_ru",
+      "type": "hiragana",
+      "row_group": "ra",
+      "character": "る",
+      "romaji": "ru",
+      "thai_reading": "รุ",
+      "thai_trick": "เขียนเหมือนเลข 3 แต่ขมวดปมกลมๆ ไว้ที่ก้น จำว่า รู (Ru) ต้องกลมๆ เสมอ",
+      "stroke_order_path": "assets/strokes/h_ru.gif"
+    },
+    {
+      "id": "k_h_re",
+      "type": "hiragana",
+      "row_group": "ra",
+      "character": "れ",
+      "romaji": "re",
+      "thai_reading": "เระ",
+      "thai_trick": "คล้ายตัว ね แต่หางตวัดเปิดออกไปข้างนอกเหมือนคนกำลังเร่ง (Re) ฝีเท้าวิ่งแข่ง",
+      "stroke_order_path": "assets/strokes/h_re.gif"
+    },
+    {
+      "id": "k_h_ro",
+      "type": "hiragana",
+      "row_group": "ra",
+      "character": "ろ",
+      "romaji": "ro",
+      "thai_reading": "โระ",
+      "thai_trick": "เขียนเหมือนเลข 3 เป๊ะๆ ไม่มีม้วนก้นกลมๆ จำว่าตูดโล่ง (Ro) ไม่มีอะไรปิด",
+      "stroke_order_path": "assets/strokes/h_ro.gif"
+    },
+    {
+      "id": "k_h_wa",
+      "type": "hiragana",
+      "row_group": "wa",
+      "character": "わ",
+      "romaji": "wa",
+      "thai_reading": "วะ",
+      "thai_trick": "คล้ายตัว れ และ ね แต่ส่วนหลังโค้งมนอ้วนพีเรียบร้อยเหมือนวงแหวน (Wa)",
+      "stroke_order_path": "assets/strokes/h_wa.gif"
+    },
+    {
+      "id": "k_h_wo",
+      "type": "hiragana",
+      "row_group": "wa",
+      "character": "を",
+      "romaji": "wo",
+      "thai_reading": "โอะ/โวะ",
+      "thai_trick": "ตัวอักษรซับซ้อนคล้ายคนกำลังก้าวขาไขว้เต้นรำจังหวะวอลซ์ (Waltz)",
+      "stroke_order_path": "assets/strokes/h_wo.gif"
+    },
+    {
+      "id": "k_h_n",
+      "type": "hiragana",
+      "row_group": "n",
+      "character": "ん",
+      "romaji": "n",
+      "thai_reading": "อึน (ตัวสะกด)",
+      "thai_trick": "รูปร่างหน้าตาเลียนแบบตัวอักษรภาษาอังกฤษพิมพ์เล็ก 'n' เลย จำง่ายที่สุด",
+      "stroke_order_path": "assets/strokes/h_n.gif"
+    },
+    {
+      "id": "k_k_a",
+      "type": "katakana",
+      "row_group": "a",
+      "character": "ア",
+      "romaji": "a",
+      "thai_reading": "อะ",
+      "thai_trick": "ลักษณะเหมือนมุมคมๆ ของคมขวานอัคนีอันใหญ่เล่มหนึ่ง",
+      "stroke_order_path": "assets/strokes/k_a.gif"
+    },
+    {
+      "id": "k_k_i",
+      "type": "katakana",
+      "row_group": "a",
+      "character": "イ",
+      "romaji": "i",
+      "thai_reading": "อิ",
+      "thai_trick": "เหมือนหุ่นคนยืนเอียงตัวกางขา คล้ายตัวไอพิมพ์ใหญ่ (I) ในภาษาอังกฤษ",
+      "stroke_order_path": "assets/strokes/k_i.gif"
+    },
+    {
+      "id": "k_k_u",
+      "type": "katakana",
+      "row_group": "a",
+      "character": "ウ",
+      "romaji": "u",
+      "thai_reading": "อุ",
+      "thai_trick": "มีหลังคาด้านบนครอบลงมาเหมือนโครงสร้างอักษรฮิรางานะ う แต่เหลี่ยมกว่า",
+      "stroke_order_path": "assets/strokes/k_u.gif"
+    },
+    {
+      "id": "k_k_e",
+      "type": "katakana",
+      "row_group": "a",
+      "character": "エ",
+      "romaji": "e",
+      "thai_reading": "เอะ",
+      "thai_trick": "เหมือนเหล็กเส้นรูปตัวเอช (H-beam) หรือแท่นวางของเหลี่ยมๆ สองชั้น",
+      "stroke_order_path": "assets/strokes/k_e.gif"
+    },
+    {
+      "id": "k_k_o",
+      "type": "katakana",
+      "row_group": "a",
+      "character": "オ",
+      "romaji": "o",
+      "thai_reading": "โอะ",
+      "thai_trick": "เหมือนหุ่นคนยืนกางแขนข้างหนึ่งแล้วก้าวขาเดินอย่างโอ้เอ้",
+      "stroke_order_path": "assets/strokes/k_o.gif"
+    },
+    {
+      "id": "k_k_ka",
+      "type": "katakana",
+      "row_group": "ka",
+      "character": "カ",
+      "romaji": "ka",
+      "thai_reading": "คะ",
+      "thai_trick": "หน้าตาถอดแบบมาจากตัวฮิรางานะ か เป๊ะๆ แค่ตัดขีดเฉียงขวาออกและเขียนเหลี่ยมขึ้น",
+      "stroke_order_path": "assets/strokes/k_ka.gif",
+      "variants": {
+        "dakuten": {
+          "id": "k_k_ga",
+          "character": "ガ",
+          "romaji": "ga",
+          "thai_reading": "กะ",
+          "stroke_order_path": "assets/strokes/k_ga.gif"
+        }
+      }
+    },
+    {
+      "id": "k_k_ki",
+      "type": "katakana",
+      "row_group": "ka",
+      "character": "キ",
+      "romaji": "ki",
+      "thai_reading": "คิ",
+      "thai_trick": "โครงสร้างคล้ายตัวฮิรางานะ き ท่อนบนมาก เส้นนอนสองขีดตรงๆ คมๆ",
+      "stroke_order_path": "assets/strokes/k_ki.gif",
+      "variants": {
+        "dakuten": {
+          "id": "k_k_gi",
+          "character": "ギ",
+          "romaji": "gi",
+          "thai_reading": "กิ",
+          "stroke_order_path": "assets/strokes/k_gi.gif"
+        }
+      }
+    },
+    {
+      "id": "k_k_ku",
+      "type": "katakana",
+      "row_group": "ka",
+      "character": "ク",
+      "romaji": "ku",
+      "thai_reading": "คุ",
+      "thai_trick": "เหมือนเลข 7 ในภาษาอังกฤษแต่ขีดเฉียงมีฐานยื่นงอเข้าข้างใน",
+      "stroke_order_path": "assets/strokes/k_ku.gif",
+      "variants": {
+        "dakuten": {
+          "id": "k_k_gu",
+          "character": "グ",
+          "romaji": "gu",
+          "thai_reading": "กุ",
+          "stroke_order_path": "assets/strokes/k_gu.gif"
+        }
+      }
+    },
+    {
+      "id": "k_k_ke",
+      "type": "katakana",
+      "row_group": "ka",
+      "character": "ケ",
+      "romaji": "ke",
+      "thai_reading": "เคะ",
+      "thai_trick": "หน้าตาคล้ายตัว ク (คุ) มาก แต่เส้นเฉียงลากตัดทะลุผ่านกลางหลังลงมาข้างล่าง",
+      "stroke_order_path": "assets/strokes/k_ke.gif",
+      "variants": {
+        "dakuten": {
+          "id": "k_k_ge",
+          "character": "ゲ",
+          "romaji": "ge",
+          "thai_reading": "เกะ",
+          "stroke_order_path": "assets/strokes/k_ge.gif"
+        }
+      }
+    },
+    {
+      "id": "k_k_ko",
+      "type": "katakana",
+      "row_group": "ka",
+      "character": "コ",
+      "romaji": "ko",
+      "thai_reading": "โคะ",
+      "thai_trick": "กล่องสี่เหลี่ยมเปิดฝาด้านซ้าย เหมือนรูปปากโคราชหรือกล่องข้าวสี่เหลี่ยม",
+      "stroke_order_path": "assets/strokes/k_ko.gif",
+      "variants": {
+        "dakuten": {
+          "id": "k_k_go",
+          "character": "ゴ",
+          "romaji": "go",
+          "thai_reading": "โกะ",
+          "stroke_order_path": "assets/strokes/k_go.gif"
+        }
+      }
+    },
+    {
+      "id": "k_k_sa",
+      "type": "katakana",
+      "row_group": "sa",
+      "character": "サ",
+      "romaji": "sa",
+      "thai_reading": "สะ",
+      "thai_trick": "เหมือนเสาหนามสามง่ามปักพื้นดิน หรือป้ายเครื่องหมายบวกที่หางยาวลงมาข้างหนึ่ง",
+      "stroke_order_path": "assets/strokes/k_sa.gif",
+      "variants": {
+        "dakuten": {
+          "id": "k_k_za",
+          "character": "ザ",
+          "romaji": "za",
+          "thai_reading": "ซะ",
+          "stroke_order_path": "assets/strokes/k_za.gif"
+        }
+      }
+    },
+    {
+      "id": "k_k_shi",
+      "type": "katakana",
+      "row_group": "sa",
+      "character": "シ",
+      "romaji": "shi",
+      "thai_reading": "ชิ",
+      "thai_trick": "ระวังจำสับสนกับ ツ (สึ) ตัว シ จะจุดสองจุดแนวตั้งแล้วลากเส้นล่างขึ้นไปข้างบน",
+      "stroke_order_path": "assets/strokes/k_shi.gif",
+      "variants": {
+        "dakuten": {
+          "id": "k_k_ji",
+          "character": "ジ",
+          "romaji": "ji",
+          "thai_reading": "จิ",
+          "stroke_order_path": "assets/strokes/k_ji.gif"
+        }
+      }
+    },
+    {
+      "id": "k_k_su",
+      "type": "katakana",
+      "row_group": "sa",
+      "character": "ス",
+      "romaji": "su",
+      "thai_reading": "สุ",
+      "thai_trick": "เหมือนหลังคาสามเหลี่ยมลาดเอียงเทไปทางขวา คล้ายขาตั้งกล้องสตูดิโอ",
+      "stroke_order_path": "assets/strokes/k_su.gif",
+      "variants": {
+        "dakuten": {
+          "id": "k_k_zu",
+          "character": "ズ",
+          "romaji": "zu",
+          "thai_reading": "ซุ",
+          "stroke_order_path": "assets/strokes/k_zu.gif"
+        }
+      }
+    },
+    {
+      "id": "k_k_se",
+      "type": "katakana",
+      "row_group": "sa",
+      "character": "セ",
+      "romaji": "se",
+      "thai_reading": "เซะ",
+      "thai_trick": "หน้าตาถอดทรงมาจากตัวฮิรางานะ せ เขียนย่นย่อให้สั้นและตัดขีดโค้งมนออก",
+      "stroke_order_path": "assets/strokes/k_se.gif",
+      "variants": {
+        "dakuten": {
+          "id": "k_k_ze",
+          "character": "ゼ",
+          "romaji": "ze",
+          "thai_reading": "เซะ",
+          "stroke_order_path": "assets/strokes/k_ze.gif"
+        }
+      }
+    },
+    {
+      "id": "k_k_so",
+      "type": "katakana",
+      "row_group": "sa",
+      "character": "ソ",
+      "romaji": "so",
+      "thai_reading": "โซะ",
+      "thai_trick": "ระวังจำสับสนกับ ン (น) ตัว ソ จะมีจุดบนเฉียงขวาแล้วลากเส้นยาวสไลด์ลงจากข้างบน",
+      "stroke_order_path": "assets/strokes/k_so.gif",
+      "variants": {
+        "dakuten": {
+          "id": "k_k_zo",
+          "character": "ゾ",
+          "romaji": "zo",
+          "thai_reading": "โซะ",
+          "stroke_order_path": "assets/strokes/k_zo.gif"
+        }
+      }
+    },
+    {
+      "id": "k_k_ta",
+      "type": "katakana",
+      "row_group": "ta",
+      "character": "タ",
+      "romaji": "ta",
+      "thai_reading": "ตะ",
+      "thai_trick": "คล้ายตัว ク (คุ) มากแต่มีขีดเฉียงสั้นๆ แปะเพิ่มเข้ามาอยู่ข้างในท้องกล่อง",
+      "stroke_order_path": "assets/strokes/k_ta.gif",
+      "variants": {
+        "dakuten": {
+          "id": "k_k_da",
+          "character": "ダ",
+          "romaji": "da",
+          "thai_reading": "ดะ",
+          "stroke_order_path": "assets/strokes/k_da.gif"
+        }
+      }
+    },
+    {
+      "id": "k_k_chi",
+      "type": "katakana",
+      "row_group": "ta",
+      "character": "チ",
+      "romaji": "chi",
+      "thai_reading": "ชิ",
+      "thai_trick": "เหมือนเลข 10 (สิบ) ในภาษาไทยที่มีขีดขวางด้านบนเพิ่มอีกหนึ่งเส้น",
+      "stroke_order_path": "assets/strokes/k_chi.gif",
+      "variants": {
+        "dakuten": {
+          "id": "k_k_dji",
+          "character": "ヂ",
+          "romaji": "ji",
+          "thai_reading": "จิ",
+          "stroke_order_path": "assets/strokes/k_dji.gif",
+          "rare": true
+        }
+      }
+    },
+    {
+      "id": "k_k_tsu",
+      "type": "katakana",
+      "row_group": "ta",
+      "character": "ツ",
+      "romaji": "tsu",
+      "thai_reading": "สึ",
+      "thai_trick": "เทียบกับ シ (ชิ) ตัว ツ จะจุดสองจุดแนวนอนด้านบนแล้วลากตวัดดิ่งลงข้างล่าง",
+      "stroke_order_path": "assets/strokes/k_tsu.gif",
+      "variants": {
+        "dakuten": {
+          "id": "k_k_dzu",
+          "character": "ヅ",
+          "romaji": "zu",
+          "thai_reading": "ซุ",
+          "stroke_order_path": "assets/strokes/k_dzu.gif",
+          "rare": true
+        }
+      }
+    },
+    {
+      "id": "k_k_te",
+      "type": "katakana",
+      "row_group": "ta",
+      "character": "テ",
+      "romaji": "te",
+      "thai_reading": "เตะ",
+      "thai_trick": "เหมือนเสาอากาศทีวีมีกิ่งยื่นออกสองชั้น หรือตัว T ที่มีขีดหมวกเพิ่ม",
+      "stroke_order_path": "assets/strokes/k_te.gif",
+      "variants": {
+        "dakuten": {
+          "id": "k_k_de",
+          "character": "デ",
+          "romaji": "de",
+          "thai_reading": "เดะ",
+          "stroke_order_path": "assets/strokes/k_de.gif"
+        }
+      }
+    },
+    {
+      "id": "k_k_to",
+      "type": "katakana",
+      "row_group": "ta",
+      "character": "ト",
+      "romaji": "to",
+      "thai_reading": "โตะ",
+      "thai_trick": "เส้นตั้งตรงดิ่งลงมาแล้วมีกิ่งไม้เล็กๆ ยื่นเฉียงออกมาทางขวาเหมือนเสาไฟ",
+      "stroke_order_path": "assets/strokes/k_to.gif",
+      "variants": {
+        "dakuten": {
+          "id": "k_k_do",
+          "character": "ド",
+          "romaji": "do",
+          "thai_reading": "โดะ",
+          "stroke_order_path": "assets/strokes/k_do.gif"
+        }
+      }
+    },
+    {
+      "id": "k_k_na",
+      "type": "katakana",
+      "row_group": "na",
+      "character": "ナ",
+      "romaji": "na",
+      "thai_reading": "นะ",
+      "thai_trick": "เหมือนป้ายเครื่องหมายบวกหรือดาบกางเขนโบราณทิ่มลงดิน",
+      "stroke_order_path": "assets/strokes/k_na.gif"
+    },
+    {
+      "id": "k_k_ni",
+      "type": "katakana",
+      "row_group": "na",
+      "character": "ニ",
+      "romaji": "ni",
+      "thai_reading": "นิ",
+      "thai_trick": "ขีดแนวนอนตรงๆ สองเส้นขนานกัน (เส้นล่างยาวกว่า) หน้าตาเหมือนเลขสองคันจิ 二",
+      "stroke_order_path": "assets/strokes/k_ni.gif"
+    },
+    {
+      "id": "k_k_nu",
+      "type": "katakana",
+      "row_group": "na",
+      "character": "ヌ",
+      "romaji": "nu",
+      "thai_reading": "นุ",
+      "thai_trick": "ลักษณะเหมือนพู่กันจีนหรือกรรไกรคีบหนีบไขว้ตัดสลับกันเป็นกากบาทเดี่ยว",
+      "stroke_order_path": "assets/strokes/k_nu.gif"
+    },
+    {
+      "id": "k_k_ne",
+      "type": "katakana",
+      "row_group": "na",
+      "character": "ネ",
+      "romaji": "ne",
+      "thai_reading": "เนะ",
+      "thai_trick": "เหมือนแท่นตั้งบูชาศาลเจ้าชินโต มีขีดเฉียงซ้าย เสาหลัก และกิ่งยื่นขวา",
+      "stroke_order_path": "assets/strokes/k_ne.gif"
+    },
+    {
+      "id": "k_k_no",
+      "type": "katakana",
+      "row_group": "na",
+      "character": "ノ",
+      "romaji": "no",
+      "thai_reading": "โนะ",
+      "thai_trick": "ขีดเฉียงสไลด์ลงขวาเพียงเส้นเดียวโดดๆ เหมือนใบไม้ร่วงหรือเส้นผมสลวยหนึ่งเส้น",
+      "stroke_order_path": "assets/strokes/k_no.gif"
+    },
+    {
+      "id": "k_k_ha",
+      "type": "katakana",
+      "row_group": "ha",
+      "character": "ハ",
+      "romaji": "ha",
+      "thai_reading": "ฮะ",
+      "thai_trick": "ขีดเฉียงกางออกจากกันซ้ายขวา หน้าตาเหมือนหนวดแมวหรือเลขแปดคันจิ 八",
+      "stroke_order_path": "assets/strokes/k_ha.gif",
+      "variants": {
+        "dakuten": {
+          "id": "k_k_ba",
+          "character": "バ",
+          "romaji": "ba",
+          "thai_reading": "บะ",
+          "stroke_order_path": "assets/strokes/k_ba.gif"
+        },
+        "handakuten": {
+          "id": "k_k_pa",
+          "character": "パ",
+          "romaji": "pa",
+          "thai_reading": "ปะ",
+          "stroke_order_path": "assets/strokes/k_pa.gif"
+        }
+      }
+    },
+    {
+      "id": "k_k_hi",
+      "type": "katakana",
+      "row_group": "ha",
+      "character": "ヒ",
+      "romaji": "hi",
+      "thai_reading": "ฮิ",
+      "thai_trick": "เหมือนเก้าอี้พับเตะขาชี้ไปทางขวา หรือส่วนหัวฉมวกจับปลา",
+      "stroke_order_path": "assets/strokes/k_hi.gif",
+      "variants": {
+        "dakuten": {
+          "id": "k_k_bi",
+          "character": "ビ",
+          "romaji": "bi",
+          "thai_reading": "บิ",
+          "stroke_order_path": "assets/strokes/k_bi.gif"
+        },
+        "handakuten": {
+          "id": "k_k_pi",
+          "character": "ピ",
+          "romaji": "pi",
+          "thai_reading": "ปิ",
+          "stroke_order_path": "assets/strokes/k_pi.gif"
+        }
+      }
+    },
+    {
+      "id": "k_k_fu",
+      "type": "katakana",
+      "row_group": "ha",
+      "character": "フ",
+      "romaji": "fu",
+      "thai_reading": "ฟุ",
+      "thai_trick": "ขีดนอนแล้วหักมุมโค้งลงซ้าย เหมือนจมูกโด่งๆ โผล่ออกมาจากใบหน้าคน",
+      "stroke_order_path": "assets/strokes/k_fu.gif",
+      "variants": {
+        "dakuten": {
+          "id": "k_k_bu",
+          "character": "ブ",
+          "romaji": "bu",
+          "thai_reading": "บุ",
+          "stroke_order_path": "assets/strokes/k_bu.gif"
+        },
+        "handakuten": {
+          "id": "k_k_pu",
+          "character": "プ",
+          "romaji": "pu",
+          "thai_reading": "ปุ",
+          "stroke_order_path": "assets/strokes/k_pu.gif"
+        }
+      }
+    },
+    {
+      "id": "k_k_he",
+      "type": "katakana",
+      "row_group": "ha",
+      "character": "ヘ",
+      "romaji": "he",
+      "thai_reading": "เฮะ",
+      "thai_trick": "หน้าตาถอดแบบมาจากตัวฮิรางานะ へ เผลอๆ เหมือนกันจนแยกแทบไม่ออกเลยจำง่าย",
+      "stroke_order_path": "assets/strokes/k_he.gif",
+      "variants": {
+        "dakuten": {
+          "id": "k_k_be",
+          "character": "ベ",
+          "romaji": "be",
+          "thai_reading": "เบะ",
+          "stroke_order_path": "assets/strokes/k_be.gif"
+        },
+        "handakuten": {
+          "id": "k_k_pe",
+          "character": "ペ",
+          "romaji": "pe",
+          "thai_reading": "เปะ",
+          "stroke_order_path": "assets/strokes/k_pe.gif"
+        }
+      }
+    },
+    {
+      "id": "k_k_ho",
+      "type": "katakana",
+      "row_group": "ha",
+      "character": "ホ",
+      "romaji": "ho",
+      "thai_reading": "โฮะ",
+      "thai_trick": "เหมือนรูปต้นไม้ใหญ่มีกิ่งก้านกางออกสองข้างซ้ายขวาใต้ร่มเงาไม้",
+      "stroke_order_path": "assets/strokes/k_ho.gif",
+      "variants": {
+        "dakuten": {
+          "id": "k_k_bo",
+          "character": "ボ",
+          "romaji": "bo",
+          "thai_reading": "โบะ",
+          "stroke_order_path": "assets/strokes/k_bo.gif"
+        },
+        "handakuten": {
+          "id": "k_k_po",
+          "character": "ポ",
+          "romaji": "po",
+          "thai_reading": "โปะ",
+          "stroke_order_path": "assets/strokes/k_po.gif"
+        }
+      }
+    },
+    {
+      "id": "k_k_ma",
+      "type": "katakana",
+      "row_group": "ma",
+      "character": "マ",
+      "romaji": "ma",
+      "thai_reading": "มะ",
+      "thai_trick": "รูปทรงสามเหลี่ยมมุมแหลมชี้ไปทางขวา คล้ายหมวกแม่มดลอยน้ำอยู่",
+      "stroke_order_path": "assets/strokes/k_ma.gif"
+    },
+    {
+      "id": "k_k_mi",
+      "type": "katakana",
+      "row_group": "ma",
+      "character": "ミ",
+      "romaji": "mi",
+      "thai_reading": "มิ",
+      "thai_trick": "ขีดเฉียงสามเส้นขนานไล่ระดับลงมา เหมือนรอยกรงเล็บหมีข่วนต้นไม้สามรอย",
+      "stroke_order_path": "assets/strokes/k_mi.gif"
+    },
+    {
+      "id": "k_k_mu",
+      "type": "katakana",
+      "row_group": "ma",
+      "character": "ム",
+      "romaji": "mu",
+      "thai_reading": "มุ",
+      "thai_trick": "รูปร่างสี่เหลี่ยมคางหมูเปิดฐานล่าง คล้ายจมูกวัวตัวผู้หนาๆ ดุดัน",
+      "stroke_order_path": "assets/strokes/k_mu.gif"
+    },
+    {
+      "id": "k_k_me",
+      "type": "katakana",
+      "row_group": "ma",
+      "character": "メ",
+      "romaji": "me",
+      "thai_reading": "เมะ",
+      "thai_trick": "เครื่องหมายกากบาท (X) เอียงๆ เหมือนดาบซามูไรสองเล่มไขว้ฟาดฟันกัน",
+      "stroke_order_path": "assets/strokes/k_me.gif"
+    },
+    {
+      "id": "k_k_mo",
+      "type": "katakana",
+      "row_group": "ma",
+      "character": "モ",
+      "romaji": "mo",
+      "thai_reading": "โมะ",
+      "thai_trick": "ทรงเหลี่ยมของตัวฮิรางานะ も ตัดเส้นลากโค้งตลบออก เขียนเป็นมุมตั้งฉากคมๆ แทน",
+      "stroke_order_path": "assets/strokes/k_mo.gif"
+    },
+    {
+      "id": "k_k_ya",
+      "type": "katakana",
+      "row_group": "ya",
+      "character": "ヤ",
+      "romaji": "ya",
+      "thai_reading": "ยะ",
+      "thai_trick": "ลอกแบบมาจากโครงสร้างฮิรางานะ や แค่เขียนขีดเฉียงสั้นให้ตรงทื่อไร้ความโค้งมน",
+      "stroke_order_path": "assets/strokes/k_ya.gif"
+    },
+    {
+      "id": "k_k_yu",
+      "type": "katakana",
+      "row_group": "ya",
+      "character": "ユ",
+      "romaji": "yu",
+      "thai_reading": "ยุ",
+      "thai_trick": "เหมือนบล็อกตัวต่อรูปตัวลู (L) กลับหัว หันมุมงอเหลี่ยมไปทางซ้ายล่าง",
+      "stroke_order_path": "assets/strokes/k_yu.gif"
+    },
+    {
+      "id": "k_k_yo",
+      "type": "katakana",
+      "row_group": "ya",
+      "character": "ヨ",
+      "romaji": "yo",
+      "thai_reading": "โยะ",
+      "thai_trick": "เหมือนตัวอักษร E ภาษาอังกฤษกลับหัวหันหน้าไปทางซ้าย คล้ายชั้นวางหนังสือสามช่อง",
+      "stroke_order_path": "assets/strokes/k_yo.gif"
+    },
+    {
+      "id": "k_k_ra",
+      "type": "katakana",
+      "row_group": "ra",
+      "character": "ラ",
+      "romaji": "ra",
+      "thai_reading": "ระ",
+      "thai_trick": "เหมือนเลข 5 ภาษาอังกฤษที่ถูกเขียนแบบเหลี่ยมจัดๆ หรือป้ายไฟโฆษณาตั้งพื้น",
+      "stroke_order_path": "assets/strokes/k_ra.gif"
+    },
+    {
+      "id": "k_k_ri",
+      "type": "katakana",
+      "row_group": "ra",
+      "character": "リ",
+      "romaji": "ri",
+      "thai_reading": "ริ",
+      "thai_trick": "เหมือนตัวฮิรางานะ り เกือบ 100% สองเส้นตรงแนวดิ่งขนานกัน เส้นขวายาวกว่า",
+      "stroke_order_path": "assets/strokes/k_ri.gif"
+    },
+    {
+      "id": "k_k_ru",
+      "type": "katakana",
+      "row_group": "ra",
+      "character": "ル",
+      "romaji": "ru",
+      "thai_reading": "รุ",
+      "thai_trick": "เหมือนขาสองข้างของคนกำลังก้าววิ่ง ขาซ้ายงอเข้า ขาขวาเหยียดกางยาวออก",
+      "stroke_order_path": "assets/strokes/k_ru.gif"
+    },
+    {
+      "id": "k_k_re",
+      "type": "katakana",
+      "row_group": "ra",
+      "character": "レ",
+      "romaji": "re",
+      "thai_reading": "เระ",
+      "thai_trick": "เส้นเฉียงลงซ้ายแล้วหักมุมตวัดดีดขึ้นฟ้าขวา คล้ายเครื่องหมายถูก (Checkmark)",
+      "stroke_order_path": "assets/strokes/k_re.gif"
+    },
+    {
+      "id": "k_k_ro",
+      "type": "katakana",
+      "row_group": "ra",
+      "character": "ロ",
+      "romaji": "ro",
+      "thai_reading": "โระ",
+      "thai_trick": "กล่องสี่เหลี่ยมจัตุรัสปิดสมบูรณ์สี่ด้าน เหมือนคำว่า โล่งกว้างไร้ทางออก",
+      "stroke_order_path": "assets/strokes/k_ro.gif"
+    },
+    {
+      "id": "k_k_wa",
+      "type": "katakana",
+      "row_group": "wa",
+      "character": "ワ",
+      "romaji": "wa",
+      "thai_reading": "วะ",
+      "thai_trick": "คล้ายตัว ウ (อุ) แต่ตัดเสาอากาศจิ้มบนหัวออก เหลือโครงหลังคาโค้งครอบเปล่าๆ",
+      "stroke_order_path": "assets/strokes/k_wa.gif"
+    },
+    {
+      "id": "k_k_wo",
+      "type": "katakana",
+      "row_group": "wa",
+      "character": "ヲ",
+      "romaji": "wo",
+      "thai_reading": "โอะ/โวะ",
+      "thai_trick": "คล้ายตัว フ (ฟุ) แต่อัดขีดเส้นนอนขนานเพิ่มตรงกลางท้องอีกหนึ่งเส้นหนาๆ",
+      "stroke_order_path": "assets/strokes/k_wo.gif"
+    },
+    {
+      "id": "k_k_n",
+      "type": "katakana",
+      "row_group": "n",
+      "character": "ン",
+      "romaji": "n",
+      "thai_reading": "อึน (ตัวสะกด)",
+      "thai_trick": "เทียบกับ シ (ชิ) และ ソ (โซะ) ตัว ン จะมีหนึ่งจุดซ้ายแล้วลากเฉียงเด้งเสยจากล่างขึ้นบน",
+      "stroke_order_path": "assets/strokes/k_n.gif"
+    }
+  ],
+  "yoon": [
+    {
+      "id": "y_h_kya",
+      "type": "hiragana",
+      "character": "きゃ",
+      "romaji": "kya",
+      "thai_reading": "เคียะ",
+      "base_id": "k_h_ki",
+      "marker": "ya",
+      "voicing": "plain"
+    },
+    {
+      "id": "y_h_kyu",
+      "type": "hiragana",
+      "character": "きゅ",
+      "romaji": "kyu",
+      "thai_reading": "คิว",
+      "base_id": "k_h_ki",
+      "marker": "yu",
+      "voicing": "plain"
+    },
+    {
+      "id": "y_h_kyo",
+      "type": "hiragana",
+      "character": "きょ",
+      "romaji": "kyo",
+      "thai_reading": "เคียว",
+      "base_id": "k_h_ki",
+      "marker": "yo",
+      "voicing": "plain"
+    },
+    {
+      "id": "y_h_sha",
+      "type": "hiragana",
+      "character": "しゃ",
+      "romaji": "sha",
+      "thai_reading": "ชะ",
+      "base_id": "k_h_shi",
+      "marker": "ya",
+      "voicing": "plain"
+    },
+    {
+      "id": "y_h_shu",
+      "type": "hiragana",
+      "character": "しゅ",
+      "romaji": "shu",
+      "thai_reading": "ชุ",
+      "base_id": "k_h_shi",
+      "marker": "yu",
+      "voicing": "plain"
+    },
+    {
+      "id": "y_h_sho",
+      "type": "hiragana",
+      "character": "しょ",
+      "romaji": "sho",
+      "thai_reading": "โชะ",
+      "base_id": "k_h_shi",
+      "marker": "yo",
+      "voicing": "plain"
+    },
+    {
+      "id": "y_h_cha",
+      "type": "hiragana",
+      "character": "ちゃ",
+      "romaji": "cha",
+      "thai_reading": "ชะ",
+      "base_id": "k_h_chi",
+      "marker": "ya",
+      "voicing": "plain"
+    },
+    {
+      "id": "y_h_chu",
+      "type": "hiragana",
+      "character": "ちゅ",
+      "romaji": "chu",
+      "thai_reading": "ชุ",
+      "base_id": "k_h_chi",
+      "marker": "yu",
+      "voicing": "plain"
+    },
+    {
+      "id": "y_h_cho",
+      "type": "hiragana",
+      "character": "ちょ",
+      "romaji": "cho",
+      "thai_reading": "โชะ",
+      "base_id": "k_h_chi",
+      "marker": "yo",
+      "voicing": "plain"
+    },
+    {
+      "id": "y_h_nya",
+      "type": "hiragana",
+      "character": "にゃ",
+      "romaji": "nya",
+      "thai_reading": "เนียะ",
+      "base_id": "k_h_ni",
+      "marker": "ya",
+      "voicing": "plain"
+    },
+    {
+      "id": "y_h_nyu",
+      "type": "hiragana",
+      "character": "にゅ",
+      "romaji": "nyu",
+      "thai_reading": "นิว",
+      "base_id": "k_h_ni",
+      "marker": "yu",
+      "voicing": "plain"
+    },
+    {
+      "id": "y_h_nyo",
+      "type": "hiragana",
+      "character": "にょ",
+      "romaji": "nyo",
+      "thai_reading": "เนียว",
+      "base_id": "k_h_ni",
+      "marker": "yo",
+      "voicing": "plain"
+    },
+    {
+      "id": "y_h_hya",
+      "type": "hiragana",
+      "character": "ひゃ",
+      "romaji": "hya",
+      "thai_reading": "เฮียะ",
+      "base_id": "k_h_hi",
+      "marker": "ya",
+      "voicing": "plain"
+    },
+    {
+      "id": "y_h_hyu",
+      "type": "hiragana",
+      "character": "ひゅ",
+      "romaji": "hyu",
+      "thai_reading": "ฮิว",
+      "base_id": "k_h_hi",
+      "marker": "yu",
+      "voicing": "plain"
+    },
+    {
+      "id": "y_h_hyo",
+      "type": "hiragana",
+      "character": "ひょ",
+      "romaji": "hyo",
+      "thai_reading": "เฮียว",
+      "base_id": "k_h_hi",
+      "marker": "yo",
+      "voicing": "plain"
+    },
+    {
+      "id": "y_h_mya",
+      "type": "hiragana",
+      "character": "みゃ",
+      "romaji": "mya",
+      "thai_reading": "เมียะ",
+      "base_id": "k_h_mi",
+      "marker": "ya",
+      "voicing": "plain"
+    },
+    {
+      "id": "y_h_myu",
+      "type": "hiragana",
+      "character": "みゅ",
+      "romaji": "myu",
+      "thai_reading": "มิว",
+      "base_id": "k_h_mi",
+      "marker": "yu",
+      "voicing": "plain"
+    },
+    {
+      "id": "y_h_myo",
+      "type": "hiragana",
+      "character": "みょ",
+      "romaji": "myo",
+      "thai_reading": "เมียว",
+      "base_id": "k_h_mi",
+      "marker": "yo",
+      "voicing": "plain"
+    },
+    {
+      "id": "y_h_rya",
+      "type": "hiragana",
+      "character": "りゃ",
+      "romaji": "rya",
+      "thai_reading": "เรียะ",
+      "base_id": "k_h_ri",
+      "marker": "ya",
+      "voicing": "plain"
+    },
+    {
+      "id": "y_h_ryu",
+      "type": "hiragana",
+      "character": "りゅ",
+      "romaji": "ryu",
+      "thai_reading": "ริว",
+      "base_id": "k_h_ri",
+      "marker": "yu",
+      "voicing": "plain"
+    },
+    {
+      "id": "y_h_ryo",
+      "type": "hiragana",
+      "character": "りょ",
+      "romaji": "ryo",
+      "thai_reading": "เรียว",
+      "base_id": "k_h_ri",
+      "marker": "yo",
+      "voicing": "plain"
+    },
+    {
+      "id": "y_h_gya",
+      "type": "hiragana",
+      "character": "ぎゃ",
+      "romaji": "gya",
+      "thai_reading": "เกียะ",
+      "base_id": "k_h_ki",
+      "marker": "ya",
+      "voicing": "dakuten"
+    },
+    {
+      "id": "y_h_gyu",
+      "type": "hiragana",
+      "character": "ぎゅ",
+      "romaji": "gyu",
+      "thai_reading": "กิว",
+      "base_id": "k_h_ki",
+      "marker": "yu",
+      "voicing": "dakuten"
+    },
+    {
+      "id": "y_h_gyo",
+      "type": "hiragana",
+      "character": "ぎょ",
+      "romaji": "gyo",
+      "thai_reading": "เกียว",
+      "base_id": "k_h_ki",
+      "marker": "yo",
+      "voicing": "dakuten"
+    },
+    {
+      "id": "y_h_ja",
+      "type": "hiragana",
+      "character": "じゃ",
+      "romaji": "ja",
+      "thai_reading": "จะ",
+      "base_id": "k_h_shi",
+      "marker": "ya",
+      "voicing": "dakuten"
+    },
+    {
+      "id": "y_h_ju",
+      "type": "hiragana",
+      "character": "じゅ",
+      "romaji": "ju",
+      "thai_reading": "จุ",
+      "base_id": "k_h_shi",
+      "marker": "yu",
+      "voicing": "dakuten"
+    },
+    {
+      "id": "y_h_jo",
+      "type": "hiragana",
+      "character": "じょ",
+      "romaji": "jo",
+      "thai_reading": "โจะ",
+      "base_id": "k_h_shi",
+      "marker": "yo",
+      "voicing": "dakuten"
+    },
+    {
+      "id": "y_h_bya",
+      "type": "hiragana",
+      "character": "びゃ",
+      "romaji": "bya",
+      "thai_reading": "เบียะ",
+      "base_id": "k_h_hi",
+      "marker": "ya",
+      "voicing": "dakuten"
+    },
+    {
+      "id": "y_h_byu",
+      "type": "hiragana",
+      "character": "びゅ",
+      "romaji": "byu",
+      "thai_reading": "บิว",
+      "base_id": "k_h_hi",
+      "marker": "yu",
+      "voicing": "dakuten"
+    },
+    {
+      "id": "y_h_byo",
+      "type": "hiragana",
+      "character": "びょ",
+      "romaji": "byo",
+      "thai_reading": "เบียว",
+      "base_id": "k_h_hi",
+      "marker": "yo",
+      "voicing": "dakuten"
+    },
+    {
+      "id": "y_h_pya",
+      "type": "hiragana",
+      "character": "ぴゃ",
+      "romaji": "pya",
+      "thai_reading": "เปียะ",
+      "base_id": "k_h_hi",
+      "marker": "ya",
+      "voicing": "handakuten"
+    },
+    {
+      "id": "y_h_pyu",
+      "type": "hiragana",
+      "character": "ぴゅ",
+      "romaji": "pyu",
+      "thai_reading": "ปิว",
+      "base_id": "k_h_hi",
+      "marker": "yu",
+      "voicing": "handakuten"
+    },
+    {
+      "id": "y_h_pyo",
+      "type": "hiragana",
+      "character": "ぴょ",
+      "romaji": "pyo",
+      "thai_reading": "เปียว",
+      "base_id": "k_h_hi",
+      "marker": "yo",
+      "voicing": "handakuten"
+    },
+    {
+      "id": "y_k_kya",
+      "type": "katakana",
+      "character": "キャ",
+      "romaji": "kya",
+      "thai_reading": "เคียะ",
+      "base_id": "k_k_ki",
+      "marker": "ya",
+      "voicing": "plain"
+    },
+    {
+      "id": "y_k_kyu",
+      "type": "katakana",
+      "character": "キュ",
+      "romaji": "kyu",
+      "thai_reading": "คิว",
+      "base_id": "k_k_ki",
+      "marker": "yu",
+      "voicing": "plain"
+    },
+    {
+      "id": "y_k_kyo",
+      "type": "katakana",
+      "character": "キョ",
+      "romaji": "kyo",
+      "thai_reading": "เคียว",
+      "base_id": "k_k_ki",
+      "marker": "yo",
+      "voicing": "plain"
+    },
+    {
+      "id": "y_k_sha",
+      "type": "katakana",
+      "character": "シャ",
+      "romaji": "sha",
+      "thai_reading": "ชะ",
+      "base_id": "k_k_shi",
+      "marker": "ya",
+      "voicing": "plain"
+    },
+    {
+      "id": "y_k_shu",
+      "type": "katakana",
+      "character": "シュ",
+      "romaji": "shu",
+      "thai_reading": "ชุ",
+      "base_id": "k_k_shi",
+      "marker": "yu",
+      "voicing": "plain"
+    },
+    {
+      "id": "y_k_sho",
+      "type": "katakana",
+      "character": "ショ",
+      "romaji": "sho",
+      "thai_reading": "โชะ",
+      "base_id": "k_k_shi",
+      "marker": "yo",
+      "voicing": "plain"
+    },
+    {
+      "id": "y_k_cha",
+      "type": "katakana",
+      "character": "チャ",
+      "romaji": "cha",
+      "thai_reading": "ชะ",
+      "base_id": "k_k_chi",
+      "marker": "ya",
+      "voicing": "plain"
+    },
+    {
+      "id": "y_k_chu",
+      "type": "katakana",
+      "character": "チュ",
+      "romaji": "chu",
+      "thai_reading": "ชุ",
+      "base_id": "k_k_chi",
+      "marker": "yu",
+      "voicing": "plain"
+    },
+    {
+      "id": "y_k_cho",
+      "type": "katakana",
+      "character": "チョ",
+      "romaji": "cho",
+      "thai_reading": "โชะ",
+      "base_id": "k_k_chi",
+      "marker": "yo",
+      "voicing": "plain"
+    },
+    {
+      "id": "y_k_nya",
+      "type": "katakana",
+      "character": "ニャ",
+      "romaji": "nya",
+      "thai_reading": "เนียะ",
+      "base_id": "k_k_ni",
+      "marker": "ya",
+      "voicing": "plain"
+    },
+    {
+      "id": "y_k_nyu",
+      "type": "katakana",
+      "character": "ニュ",
+      "romaji": "nyu",
+      "thai_reading": "นิว",
+      "base_id": "k_k_ni",
+      "marker": "yu",
+      "voicing": "plain"
+    },
+    {
+      "id": "y_k_nyo",
+      "type": "katakana",
+      "character": "ニョ",
+      "romaji": "nyo",
+      "thai_reading": "เนียว",
+      "base_id": "k_k_ni",
+      "marker": "yo",
+      "voicing": "plain"
+    },
+    {
+      "id": "y_k_hya",
+      "type": "katakana",
+      "character": "ヒャ",
+      "romaji": "hya",
+      "thai_reading": "เฮียะ",
+      "base_id": "k_k_hi",
+      "marker": "ya",
+      "voicing": "plain"
+    },
+    {
+      "id": "y_k_hyu",
+      "type": "katakana",
+      "character": "ヒュ",
+      "romaji": "hyu",
+      "thai_reading": "ฮิว",
+      "base_id": "k_k_hi",
+      "marker": "yu",
+      "voicing": "plain"
+    },
+    {
+      "id": "y_k_hyo",
+      "type": "katakana",
+      "character": "ヒョ",
+      "romaji": "hyo",
+      "thai_reading": "เฮียว",
+      "base_id": "k_k_hi",
+      "marker": "yo",
+      "voicing": "plain"
+    },
+    {
+      "id": "y_k_mya",
+      "type": "katakana",
+      "character": "ミャ",
+      "romaji": "mya",
+      "thai_reading": "เมียะ",
+      "base_id": "k_k_mi",
+      "marker": "ya",
+      "voicing": "plain"
+    },
+    {
+      "id": "y_k_myu",
+      "type": "katakana",
+      "character": "ミュ",
+      "romaji": "myu",
+      "thai_reading": "มิว",
+      "base_id": "k_k_mi",
+      "marker": "yu",
+      "voicing": "plain"
+    },
+    {
+      "id": "y_k_myo",
+      "type": "katakana",
+      "character": "ミョ",
+      "romaji": "myo",
+      "thai_reading": "เมียว",
+      "base_id": "k_k_mi",
+      "marker": "yo",
+      "voicing": "plain"
+    },
+    {
+      "id": "y_k_rya",
+      "type": "katakana",
+      "character": "リャ",
+      "romaji": "rya",
+      "thai_reading": "เรียะ",
+      "base_id": "k_k_ri",
+      "marker": "ya",
+      "voicing": "plain"
+    },
+    {
+      "id": "y_k_ryu",
+      "type": "katakana",
+      "character": "リュ",
+      "romaji": "ryu",
+      "thai_reading": "ริว",
+      "base_id": "k_k_ri",
+      "marker": "yu",
+      "voicing": "plain"
+    },
+    {
+      "id": "y_k_ryo",
+      "type": "katakana",
+      "character": "リョ",
+      "romaji": "ryo",
+      "thai_reading": "เรียว",
+      "base_id": "k_k_ri",
+      "marker": "yo",
+      "voicing": "plain"
+    },
+    {
+      "id": "y_k_gya",
+      "type": "katakana",
+      "character": "ギャ",
+      "romaji": "gya",
+      "thai_reading": "เกียะ",
+      "base_id": "k_k_ki",
+      "marker": "ya",
+      "voicing": "dakuten"
+    },
+    {
+      "id": "y_k_gyu",
+      "type": "katakana",
+      "character": "ギュ",
+      "romaji": "gyu",
+      "thai_reading": "กิว",
+      "base_id": "k_k_ki",
+      "marker": "yu",
+      "voicing": "dakuten"
+    },
+    {
+      "id": "y_k_gyo",
+      "type": "katakana",
+      "character": "ギョ",
+      "romaji": "gyo",
+      "thai_reading": "เกียว",
+      "base_id": "k_k_ki",
+      "marker": "yo",
+      "voicing": "dakuten"
+    },
+    {
+      "id": "y_k_ja",
+      "type": "katakana",
+      "character": "ジャ",
+      "romaji": "ja",
+      "thai_reading": "จะ",
+      "base_id": "k_k_shi",
+      "marker": "ya",
+      "voicing": "dakuten"
+    },
+    {
+      "id": "y_k_ju",
+      "type": "katakana",
+      "character": "ジュ",
+      "romaji": "ju",
+      "thai_reading": "จุ",
+      "base_id": "k_k_shi",
+      "marker": "yu",
+      "voicing": "dakuten"
+    },
+    {
+      "id": "y_k_jo",
+      "type": "katakana",
+      "character": "ジョ",
+      "romaji": "jo",
+      "thai_reading": "โจะ",
+      "base_id": "k_k_shi",
+      "marker": "yo",
+      "voicing": "dakuten"
+    },
+    {
+      "id": "y_k_bya",
+      "type": "katakana",
+      "character": "ビャ",
+      "romaji": "bya",
+      "thai_reading": "เบียะ",
+      "base_id": "k_k_hi",
+      "marker": "ya",
+      "voicing": "dakuten"
+    },
+    {
+      "id": "y_k_byu",
+      "type": "katakana",
+      "character": "ビュ",
+      "romaji": "byu",
+      "thai_reading": "บิว",
+      "base_id": "k_k_hi",
+      "marker": "yu",
+      "voicing": "dakuten"
+    },
+    {
+      "id": "y_k_byo",
+      "type": "katakana",
+      "character": "ビョ",
+      "romaji": "byo",
+      "thai_reading": "เบียว",
+      "base_id": "k_k_hi",
+      "marker": "yo",
+      "voicing": "dakuten"
+    },
+    {
+      "id": "y_k_pya",
+      "type": "katakana",
+      "character": "ピャ",
+      "romaji": "pya",
+      "thai_reading": "เปียะ",
+      "base_id": "k_k_hi",
+      "marker": "ya",
+      "voicing": "handakuten"
+    },
+    {
+      "id": "y_k_pyu",
+      "type": "katakana",
+      "character": "ピュ",
+      "romaji": "pyu",
+      "thai_reading": "ปิว",
+      "base_id": "k_k_hi",
+      "marker": "yu",
+      "voicing": "handakuten"
+    },
+    {
+      "id": "y_k_pyo",
+      "type": "katakana",
+      "character": "ピョ",
+      "romaji": "pyo",
+      "thai_reading": "เปียว",
+      "base_id": "k_k_hi",
+      "marker": "yo",
+      "voicing": "handakuten"
+    }
+  ],
+  "yoon_markers": [
+    {
+      "id": "k_h_ya_small",
+      "type": "hiragana",
+      "character": "ゃ",
+      "romaji": "ya",
+      "thai_reading": "ยะ (เล็ก)",
+      "is_small": true
+    },
+    {
+      "id": "k_h_yu_small",
+      "type": "hiragana",
+      "character": "ゅ",
+      "romaji": "yu",
+      "thai_reading": "ยุ (เล็ก)",
+      "is_small": true
+    },
+    {
+      "id": "k_h_yo_small",
+      "type": "hiragana",
+      "character": "ょ",
+      "romaji": "yo",
+      "thai_reading": "โยะ (เล็ก)",
+      "is_small": true
+    },
+    {
+      "id": "k_k_ya_small",
+      "type": "katakana",
+      "character": "ャ",
+      "romaji": "ya",
+      "thai_reading": "ยะ (เล็ก)",
+      "is_small": true
+    },
+    {
+      "id": "k_k_yu_small",
+      "type": "katakana",
+      "character": "ュ",
+      "romaji": "yu",
+      "thai_reading": "ยุ (เล็ก)",
+      "is_small": true
+    },
+    {
+      "id": "k_k_yo_small",
+      "type": "katakana",
+      "character": "ョ",
+      "romaji": "yo",
+      "thai_reading": "โยะ (เล็ก)",
+      "is_small": true
+    }
+  ]
+}
